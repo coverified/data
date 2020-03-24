@@ -10,20 +10,20 @@
     },
     {
       "id": "link_label",
-      "value": "Anzeigen"
+      "value": "Weiterlesen"
     },
     {
       "id": "button_landing_label",
-      "value": "CoronaInfo"
+      "value": "CoVerified"
     },
     {},
     {
       "id": "post_1_headline",
-      "value": "Ausgangsbeschränkung in Bayern!"
+      "value": "Maßnahmenpaket der Bundesregierung zum Coronavirus"
     },
     {
       "id": "post_1_text",
-      "value": "Der bayerische Ministerpräsident Söder verhängt ab Freitag 0 Uhr eine Ausgangsbeschränkung über den Freitstaat."
+      "value": "Die Bundesregierung hat ein weitreichendes Maßnahmenpaket beschlossen, um die Folgen der Ausbreitung des Coronavirus abzumildern."
     },
     {
       "id": "post_1_source",
@@ -31,11 +31,11 @@
     },
     {
       "id": "post_1_timestamp",
-      "value": "2020-03-22T00:52:15.499Z"
+      "value": "2023-03-22T00:52:15.499Z"
     },
     {
       "id": "post_1_url",
-      "value": "https://www.tagesschau.de/inland/soeder-363.html"
+      "value": "https://www.bundesregierung.de/breg-de/themen/coronavirus/coronavirus-1725960"
     },
     {
       "id": "post_2_headline",
@@ -159,15 +159,15 @@
     },
     {
       "id": "number_death",
-      "value": "92"
+      "value": "114"
     },
     {
       "id": "number_active_cases_label",
-      "value": "Aktive Coronavirus-Fälle in Deutschland "
+      "value": "Aktive COVID-29-Fälle in Deutschland "
     },
     {
       "id": "number_active_cases",
-      "value": "23.313"
+      "value": "27.436"
     }
   ]
 }
