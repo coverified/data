@@ -16,7 +16,6 @@
       "id": "button_landing_label",
       "value": "CoronaInfo"
     },
-    {},
     {
       "id": "post_1_headline",
       "value": "Kabinett beschließt Entwürfe für Gesetzespakete zur Unterstützung des Gesundheitswesens bei der Bewältigung der Corona-Epidemie"
@@ -77,82 +76,6 @@
       "id": "post_3_url",
       "value": "https://www.bundesregierung.de/breg-de/themen/coronavirus/soforthilfen-beschlossen-1733604"
     },
-    {
-      "id": "post_4_headline",
-      "value": "Zusammen gegen Corona - Ihre Engagement ist jetzt gefragt!"
-    },
-    {
-      "id": "post_4_text",
-      "value": "Unterstützungspersonal Krisenmanagement (m/w/d) in der Funktion „Containment Scout\" dringend gesucht! Gemeinsam mit dem Bundesverwaltungsamt sucht das Robert Koch-Institut Mitarbeiterinnen und Mitarbeiter (Containment Scouts) zur Unterstützung der Landesbehörden und Gesundheitsämter im Rahmen des COVID 19-Geschehens."
-    },
-    {
-      "id": "post_4_source",
-      "value": "www.rki.de"
-    },
-    {
-      "id": "post_5_timestamp",
-      "value": "2020-03-18T22:33:44.499Z"
-    },
-    {
-      "id": "post_4_url",
-      "value": "https://www.rki.de/DE/Content/Service/Stellen/Containement_Scout.html"
-    },
-    {
-      "id": "post_5_headline",
-      "value": "Coronavirus Resource Center"
-    },
-    {
-      "id": "post_5_text",
-      "value": "Johns Hopkins experts in global public health, infectious disease, and emergency preparedness have been at the forefront of the international response to COVID-19."
-    },
-    {
-      "id": "post_5_source",
-      "value": "Johns Hopkins University"
-    },
-    {
-      "id": "post_5_timestamp",
-      "value": "2020-03-17T11:34:21.499Z"
-    },
-    {
-      "id": "post_5_url",
-      "value": "https://coronavirus.jhu.edu/"
-    },
-    {
-      "id": "post_6_headline",
-      "value": "Neue Genschere funktioniert auch bei Coronavirus"
-    },
-    {
-      "id": "post_6_text",
-      "value": "Eine neue Genschere kann auch RNA-basierte-Strukturen wie den Coronavirus manipulieren. Das bisherige CRISPR/Cas9-Verfahren war hingegen auf DNA beschränkt."
-    },
-    {
-      "id": "post_6_source",
-      "value": "forschung-und-wissen.de"
-    },
-    {
-      "id": "post_6_timestamp",
-      "value": "2020-03-16T18:32:00.499Z"
-    },
-    {
-      "id": "post_6_url",
-      "value": "https://www.forschung-und-wissen.de/nachrichten/medizin/neue-genschere-funktioniert-auch-bei-coronavirus-13373755"
-    },
-    {
-      "id": "post_7_headline"
-    },
-    {
-      "id": "post_7_text"
-    },
-    {
-      "id": "post_7_source"
-    },
-    {
-      "id": "post_7_timestamp"
-    },
-    {
-      "id": "post_7_url"
-    },
-    {},
     {
       "id": "number_death_label",
       "value": "Todesfälle in Deutschland "
