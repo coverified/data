@@ -19,51 +19,51 @@
     {},
     {
       "id": "post_1_headline",
-      "value": "Ausgangsbeschränkung in Bayern!"
+      "value": "Kabinett beschließt Entwürfe für Gesetzespakete zur Unterstützung des Gesundheitswesens bei der Bewältigung der Corona-Epidemie"
     },
     {
       "id": "post_1_text",
-      "value": "Der bayerische Ministerpräsident Söder verhängt ab Freitag 0 Uhr eine Ausgangsbeschränkung über den Freitstaat."
+      "value": "Um das Gesundheitswesen und die Pflege bei der Bewältigung der Corona-Epidemie zu unterstützen, hat das Kabinett heute zwei von Bundesgesundheitsminister Spahn vorgelegte Formulierungshilfen für Gesetzentwürfe beschlossen. Mit dem „COVID19-Krankenhausentlastungsgesetz“ werden die wirtschaftlichen Folgen für Krankenhäuser und Vertragsärzte aufgefangen. Mit dem Gesetz zum Schutz der Bevölkerung bei einer epidemischen Lage von nationaler Tragweite wird die Reaktionsfähigkeit auf Epidemien verbessert."
     },
     {
       "id": "post_1_source",
-      "value": "bundesregierung.de"
+      "value": "bundesgesundheitsministerium.de"
     },
     {
       "id": "post_1_timestamp",
-      "value": "2020-03-22T00:52:15.499Z"
+      "value": "2020-03-23T22:52:15.499Z"
     },
     {
       "id": "post_1_url",
-      "value": "https://www.tagesschau.de/inland/soeder-363.html"
+      "value": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/2020/1-quartal/gesetzespakete-corona-epidemie.html"
     },
     {
       "id": "post_2_headline",
-      "value": "Weltweit mehr als 280.000 Menschen infiziert"
+      "value": "Fragen und Antworten zur Bund-Länder-Vereinbarung."
     },
     {
       "id": "post_2_text",
-      "value": "Hier findet ihr eine Übersicht über die weltweiten infizierten Personen. "
+      "value": "Bund und Länder haben angesichts der rasanten Verbreitung des Coronavirus am 22. März 2020 erweiterte Leitlinien zur Beschränkung sozialer Kontakte beschlossen. Mit wem darf ich mich im öffentlichen Raum aufhalten? Was gilt für Restaurants und andere Dienstleister? Wie lange bleiben die neuen Regelungen bestehen? Die wichtigsten Fragen und Antworten."
     },
     {
       "id": "post_2_source",
-      "value": "coronawiki.org"
+      "value": "bundesregierung.de"
     },
     {
       "id": "post_2_timestamp",
-      "value": "2020-03-21T14:02:45.499Z"
+      "value": "2020-03-23T14:02:45.499Z"
     },
     {
       "id": "post_2_url",
-      "value": "https://coronawiki.org/index"
+      "value": "https://www.bundesregierung.de/breg-de/themen/coronavirus/faqs-neue-leitlinien-1733416"
     },
     {
       "id": "post_3_headline",
-      "value": "Vorübergehende Grenzkontrollen"
+      "value": "Soforthilfe für Kleinstunternehmen und Solo-Selbständige"
     },
     {
       "id": "post_3_text",
-      "value": "Zur Eindämmung der Infektionsgefahr durch das Coronavirus schränkt die Bundesregierung vorübergehend den grenzüberschreitenden Verkehr aus Frankreich, Österreich, Luxemburg, der Schweiz und Dänemark ein. Zudem ist ein Grenzübertritt nur noch an bestimmten Grenzübergangsstellen möglich. Der Warenverkehr bleibt davon unberührt, auch Berufspendler können weiter einreisen."
+      "value": "Das Bundeskabinett hat Eckpunkte für Soforthilfen für Kleinstunternehmen und Solo-Selbständige im Volumen von 50 Milliarden Euro beschlossen. Unternehmen mit bis zu zehn Beschäftigten soll schnell und unbürokratisch geholfen werden. Wir gehen in die Vollen, um auch den Kleinstunternehmen und Solo-Selbständigen unter die Arme zu greifen, so Bundesfinanzminister Scholz."
     },
     {
       "id": "post_3_source",
@@ -71,11 +71,11 @@
     },
     {
       "id": "post_3_timestamp",
-      "value": "2020-03-19T08:33:16.499Z"
+      "value": "2020-03-23T08:33:16.499Z"
     },
     {
       "id": "post_3_url",
-      "value": "https://www.bundesregierung.de/breg-de/themen/coronavirus/kontrollen-an-den-grenzen-1730742"
+      "value": "https://www.bundesregierung.de/breg-de/themen/coronavirus/soforthilfen-beschlossen-1733604"
     },
     {
       "id": "post_4_headline",
@@ -159,7 +159,7 @@
     },
     {
       "id": "number_death",
-      "value": "92"
+      "value": "114"
     },
     {
       "id": "number_active_cases_label",
@@ -167,7 +167,7 @@
     },
     {
       "id": "number_active_cases",
-      "value": "23.313"
+      "value": "27.436"
     }
   ]
 }
