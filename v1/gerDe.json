@@ -18,31 +18,31 @@
     },
     {
       "id": "post_1_headline",
-      "value": "Kabinett beschließt Entwürfe für Gesetzespakete zur Unterstützung des Gesundheitswesens bei der Bewältigung der Corona-Epidemie"
+      "value": "Entschlossenes Handeln in der Corona-Pandemie"
     },
     {
       "id": "post_1_text",
-      "value": "Um das Gesundheitswesen und die Pflege bei der Bewältigung der Corona-Epidemie zu unterstützen, hat das Kabinett heute zwei von Bundesgesundheitsminister Spahn vorgelegte Formulierungshilfen für Gesetzentwürfe beschlossen. Mit dem „COVID19-Krankenhausentlastungsgesetz“ werden die wirtschaftlichen Folgen für Krankenhäuser und Vertragsärzte aufgefangen. Mit dem Gesetz zum Schutz der Bevölkerung bei einer epidemischen Lage von nationaler Tragweite wird die Reaktionsfähigkeit auf Epidemien verbessert."
+      "value": "Bundeskanzlerin Angela Merkel nimmt am Donnerstag an einer Videokonferenz des Europäischen Rats teil. Die Staats- und Regierungschefs der EU werden sich erneut über die aktuelle Lage in der Corona-Pandemie austauschen. Auch werden sie über das gemeinsame weitere Vorgehen in der Krise sprechen."
     },
     {
       "id": "post_1_source",
-      "value": "bundesgesundheitsministerium.de"
+      "value": "bundesregierung.de"
     },
     {
       "id": "post_1_timestamp",
-      "value": "2020-03-23T22:52:15.499Z"
+      "value": "2020-03-25T18:52:15.499Z"
     },
     {
       "id": "post_1_url",
-      "value": "https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/2020/1-quartal/gesetzespakete-corona-epidemie.html"
+      "value": "https://www.bundesregierung.de/breg-de/aktuelles/europaeischer-rat-zu-corona-1734964"
     },
     {
       "id": "post_2_headline",
-      "value": "Fragen und Antworten zur Bund-Länder-Vereinbarung."
+      "value": "Kliniken und Praxen werden gestärkt"
     },
     {
       "id": "post_2_text",
-      "value": "Bund und Länder haben angesichts der rasanten Verbreitung des Coronavirus am 22. März 2020 erweiterte Leitlinien zur Beschränkung sozialer Kontakte beschlossen. Mit wem darf ich mich im öffentlichen Raum aufhalten? Was gilt für Restaurants und andere Dienstleister? Wie lange bleiben die neuen Regelungen bestehen? Die wichtigsten Fragen und Antworten."
+      "value": "Das gesamte Gesundheitssystem ist wegen der Corona-Krise gefordert. Klinik-Kapazitäten werden ausgebaut, Arztpraxen müssen auch Covid19-Patienten behandeln und Pflegeeinrichtungen der Ausbreitung des Virus vorbauen. Der Bundestag hat sich daher auf Maßnahmen verständigt, um Einnahmeausfälle zu kompensieren und Bürokratie abzubauen."
     },
     {
       "id": "post_2_source",
@@ -50,19 +50,19 @@
     },
     {
       "id": "post_2_timestamp",
-      "value": "2020-03-23T14:02:45.499Z"
+      "value": "2020-03-25T20:02:45.499Z"
     },
     {
       "id": "post_2_url",
-      "value": "https://www.bundesregierung.de/breg-de/themen/coronavirus/faqs-neue-leitlinien-1733416"
+      "value": "https://www.bundesregierung.de/breg-de/themen/coronavirus/covid19-krankenhaus-gesetz-1733614"
     },
     {
       "id": "post_3_headline",
-      "value": "Soforthilfe für Kleinstunternehmen und Solo-Selbständige"
+      "value": "Schüler im Homeoffice"
     },
     {
       "id": "post_3_text",
-      "value": "Das Bundeskabinett hat Eckpunkte für Soforthilfen für Kleinstunternehmen und Solo-Selbständige im Volumen von 50 Milliarden Euro beschlossen. Unternehmen mit bis zu zehn Beschäftigten soll schnell und unbürokratisch geholfen werden. Wir gehen in die Vollen, um auch den Kleinstunternehmen und Solo-Selbständigen unter die Arme zu greifen, so Bundesfinanzminister Scholz."
+      "value": "Innerhalb weniger Tage mussten die Schulen in Deutschland von Präsenz- auf digitalen Unterricht umstellen. Die Erfahrungen sind unterschiedlich: Vorteile haben Schulen, die schon länger auf digitale Techniken setzen. Der Bund fördert die Digitalisierung innerhalb des Digitalpakts Schule mit fünf Milliarden Euro."
     },
     {
       "id": "post_3_source",
@@ -70,11 +70,11 @@
     },
     {
       "id": "post_3_timestamp",
-      "value": "2020-03-23T08:33:16.499Z"
+      "value": "2020-03-25T21:33:16.499Z"
     },
     {
       "id": "post_3_url",
-      "value": "https://www.bundesregierung.de/breg-de/themen/coronavirus/soforthilfen-beschlossen-1733604"
+      "value": "https://www.bundesregierung.de/breg-de/themen/coronavirus/digitales-lernen-1734916"
     },
     {
       "id": "number_death_label",
@@ -82,7 +82,7 @@
     },
     {
       "id": "number_death",
-      "value": "149"
+      "value": "206"
     },
     {
       "id": "number_active_cases_label",
@@ -90,7 +90,7 @@
     },
     {
       "id": "number_active_cases",
-      "value": "31.554"
+      "value": "37.323"
     }
   ]
 }
