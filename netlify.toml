@@ -2,3 +2,8 @@
   for = "/*"
   [headers.values]
     Access-Control-Allow-Origin = "*"
+[[redirects]]
+  from = "/v2/cases/*"
+  to = "https://covidapi.info/api/v1/:splat"
+  status = 200
+  force = true
