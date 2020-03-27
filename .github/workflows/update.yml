@@ -22,6 +22,7 @@ jobs:
           curl https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.charite.de%2Fservice%2Fpressemitteilung%2Ffeed%2Fpressefeed%2Frss2feed.xml > v2/feed/charite.de.json
           curl https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.bundesgesundheitsministerium.de%2Frss > v2/feed/bundesgesundheitsministerium.de.json
       - name: Commit files
+        continue-on-error: true
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
