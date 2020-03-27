@@ -1,0 +1,33 @@
+name: Update data
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    # Run hourly
+    - cron: 0 * * * *
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Create local changes
+        # get feed data as json and save them locally
+        run: |
+          mkdir -p v2/feed
+          curl https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.bundesregierung.de%2Fservice%2Frss%2Fbreg-de%2F1151242%2Ffeed.xml > v2/feed/bundesregierung.de.json
+          curl https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.rki.de%2FSiteGlobals%2FFunctions%2FRSSFeed%2FRSSGenerator_nCoV.xml > v2/feed/rki.de.json
+          curl https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.charite.de%2Fservice%2Fpressemitteilung%2Ffeed%2Fpressefeed%2Frss2feed.xml > v2/feed/charite.de.json
+          curl https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.bundesgesundheitsministerium.de%2Frss > v2/feed/bundesgesundheitsministerium.de.json
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Update dataset" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        if: success()
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
