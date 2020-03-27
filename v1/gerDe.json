@@ -91,6 +91,10 @@
     {
       "id": "number_active_cases",
       "value": "42.288"
+    },
+    {
+      "id": "data_source_numbers",
+      "value": "https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4"
     }
   ]
 }
