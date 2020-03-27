@@ -1,0 +1,11 @@
+{
+  "countryCode": "DEU",
+  "language": "de",
+  "strings": {
+    "verified": "Verifizierte Quelle",
+    "moreLink": "Anzeigen",
+    "casesAll": "COVID-19 Fälle in Deutschland",
+    "casesDeaths": "Todesfälle in Deutschland",
+    "casesRecovered": "Wieder genesen in Deutschland"
+  }
+}
