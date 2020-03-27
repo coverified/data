@@ -82,15 +82,19 @@
     },
     {
       "id": "number_death",
-      "value": "206"
+      "value": "253"
     },
     {
       "id": "number_active_cases_label",
-      "value": "Aktive Coronavirus-Fälle in Deutschland "
+      "value": "COVID-19 Fälle in Deutschland "
     },
     {
       "id": "number_active_cases",
-      "value": "37.323"
+      "value": "42.288"
+    },
+    {
+      "id": "data_source_numbers",
+      "value": "https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4"
     }
   ]
 }
